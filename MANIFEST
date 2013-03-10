@@ -1,0 +1,19 @@
+MANIFEST
+Makefile.PL
+TokyoCabinet.pm
+TokyoCabinet.xs
+TokyoCabinet.pod
+tchtest.pl
+tcbtest.pl
+tcftest.pl
+tcttest.pl
+tcatest.pl
+test.pl
+memsize.pl
+example/tchdbex.pl
+example/tcbdbex.pl
+example/tcfdbex.pl
+example/tctdbex.pl
+example/tcadbex.pl
+COPYING
+META.yml                                 Module meta-data (added by MakeMaker)
